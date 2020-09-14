@@ -10,8 +10,11 @@ if __name__ == "__main__":
     print("This code is not running when importing module. " + \
         "Only when executing as script.")
     # Command line params
+    
+    print("Param 0 = {} \n\n".format(sys.argv[0]))
+    
     if len(sys.argv) > 1:
-        print("Param 0 = {} \n\n".format(sys.argv[0]))
+        
         for i, p in enumerate(sys.argv):
             print("Param {} = {}".format(i, p))
 
