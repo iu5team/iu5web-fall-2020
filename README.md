@@ -4,6 +4,9 @@
 #### [Структура курса.](https://github.com/iu5team/iu5web-fall-2020/blob/master/pres/rip_intro.pdf)
 
 ## Лекции:
+
+#### Видеотрансляции лекций на youtube - https://www.youtube.com/playlist?list=PL9vFTJYocFHoiic6NdfkSpGRBA--0jON4
+
 1. Введение в Python:
     * [История языка Python и основные ссылки.](https://github.com/iu5team/iu5web-fall-2020/wiki/python_intro)
     * [Используемые средства разработки.](https://github.com/iu5team/iu5web-fall-2020/wiki/IDE)
