@@ -16,7 +16,7 @@
     * [Презентация.](https://github.com/iu5team/iu5web-fall-2020/blob/master/pres/lect2/oop.pdf)
     * [Примеры кода.](/code/lect2_code)
 
-1. Базовые типы и ООП
+1. Базовые типы и ООП:
     * [Встроенные типы данных в Python.](https://nbviewer.jupyter.org/github/iu5team/iu5web-fall-2020/blob/master/notebooks/lect_3/built_in_types.ipynb)
     * [Объектно-ориентированное программирование в Python. Дополнительные возможности.](https://nbviewer.jupyter.org/github/iu5team/iu5web-fall-2020/blob/master/notebooks/lect_3/oop_adv.ipynb)
 
