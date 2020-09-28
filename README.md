@@ -18,6 +18,10 @@
 
 1. [Встроенные типы данных в Python.](https://nbviewer.jupyter.org/github/iu5team/iu5web-fall-2020/blob/master/notebooks/lect_3/built_in_types.ipynb)
 
+1. Коллекции и их обработка в Python
+    * [Коллекции в Python](https://nbviewer.jupyter.org/github/iu5team/iu5web-fall-2020/blob/master/notebooks/lect_4/collections.ipynb)
+    * [Функциональные возможности обработки коллекций](https://nbviewer.jupyter.org/github/iu5team/iu5web-fall-2020/blob/master/notebooks/lect_4/fp_collections.ipynb)
+
 
 
 ## Лабораторные работы:
