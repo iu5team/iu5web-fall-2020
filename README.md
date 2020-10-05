@@ -22,11 +22,16 @@
     * [Коллекции в Python](https://nbviewer.jupyter.org/github/iu5team/iu5web-fall-2020/blob/master/notebooks/lect_4/collections.ipynb)
     * [Функциональные возможности обработки коллекций](https://nbviewer.jupyter.org/github/iu5team/iu5web-fall-2020/blob/master/notebooks/lect_4/fp_collections.ipynb)
 
+1. Другие возможности функционального программирования в Python
+    * [Параметры функций. Использование args, и kwargs](https://nbviewer.jupyter.org/github/iu5team/iu5web-fall-2020/blob/master/notebooks/lect_5/args_kwargs.ipynb)
+
 
 
 ## Лабораторные работы:
 1. [Основы языка Python.](https://github.com/iu5team/iu5web-fall-2020/wiki/lab_python_intro)
 1. [Объектно-ориентированные возможности языка Python](https://github.com/iu5team/iu5web-fall-2020/wiki/lab_python_oop) ( [Пример](/code/lab2_code) )
+1. [Функциональные возможности языка Python](https://github.com/iu5team/iu5web-fall-2020/wiki/lab_python_fp)
+
 
 ## Домашнее задание:
 
