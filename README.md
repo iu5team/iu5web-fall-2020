@@ -29,10 +29,10 @@
     * [Контекстные менеджеры.](https://nbviewer.jupyter.org/github/iu5team/iu5web-fall-2020/blob/master/notebooks/lect_5/context_managers.ipynb)
     * [Работа с файлами в Python.](https://nbviewer.jupyter.org/github/iu5team/iu5web-fall-2020/blob/master/notebooks/lect_5/files/files.ipynb)
 
-1. Дополнительные возможности ООП в Python. Введение в UML и шаблоны проектирования:
+1. Лекции 6, 7, 8. Дополнительные возможности ООП в Python. Введение в UML и шаблоны проектирования:
     * [Дополнительные возможности ООП в Python.](https://nbviewer.jupyter.org/github/iu5team/iu5web-fall-2020/blob/master/notebooks/lect_6/oop_adv.ipynb)
     * [Unified Modeling Language, UML.](https://ru.wikipedia.org/wiki/UML)
-    * [PlantUML](https://plantuml.com/)
+    * [PlantUML.](https://plantuml.com/)
     * [Шаблоны проектирования - определение.](https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)
     * [Шаблоны проектирования - реализация на различных языках.](https://refactoring.guru/ru/design-patterns/catalog)
     * [Шаблоны проектирования - реализация на C#.](https://metanit.com/sharp/patterns/1.1.php)
