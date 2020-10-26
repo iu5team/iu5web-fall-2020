@@ -29,7 +29,7 @@
     * [Контекстные менеджеры.](https://nbviewer.jupyter.org/github/iu5team/iu5web-fall-2020/blob/master/notebooks/lect_5/context_managers.ipynb)
     * [Работа с файлами в Python.](https://nbviewer.jupyter.org/github/iu5team/iu5web-fall-2020/blob/master/notebooks/lect_5/files/files.ipynb)
 
-1. Лекции 6, 7, 8. Дополнительные возможности ООП в Python. Введение в UML и шаблоны проектирования:
+1. Лекции 6, 7. Дополнительные возможности ООП в Python. Введение в UML и шаблоны проектирования:
     * [Дополнительные возможности ООП в Python.](https://nbviewer.jupyter.org/github/iu5team/iu5web-fall-2020/blob/master/notebooks/lect_6/oop_adv.ipynb)
     * [Unified Modeling Language, UML.](https://ru.wikipedia.org/wiki/UML)
     * [PlantUML.](https://plantuml.com/)
@@ -37,12 +37,13 @@
     * [Шаблоны проектирования - реализация на различных языках.](https://refactoring.guru/ru/design-patterns/catalog)
     * [Шаблоны проектирования - реализация на C#.](https://metanit.com/sharp/patterns/1.1.php)
 
-
+1. Лекция 8. [Введение в модульное тестирование](https://github.com/iu5team/iu5web-fall-2020/blob/master/pres/rip_test.pdf)
 
 ## Лабораторные работы:
 1. [Основы языка Python.](https://github.com/iu5team/iu5web-fall-2020/wiki/lab_python_intro)
 1. [Объектно-ориентированные возможности языка Python.](https://github.com/iu5team/iu5web-fall-2020/wiki/lab_python_oop) ( [Пример](/code/lab2_code) )
 1. [Функциональные возможности языка Python.](https://github.com/iu5team/iu5web-fall-2020/wiki/lab_python_fp)
+1. [Шаблоны проектирования и модульное тестирование в Python.](https://github.com/iu5team/iu5web-fall-2020/wiki/lab_python_test)
 
 
 ## Домашнее задание:
