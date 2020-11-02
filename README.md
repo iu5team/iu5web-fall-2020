@@ -37,13 +37,12 @@
     * [Шаблоны проектирования - реализация на различных языках.](https://refactoring.guru/ru/design-patterns/catalog)
     * [Шаблоны проектирования - реализация на C#.](https://metanit.com/sharp/patterns/1.1.php)
 
-1. Лекция 8. [Введение в модульное тестирование](https://github.com/iu5team/iu5web-fall-2020/blob/master/pres/rip_test.pdf)
+1. Лекция 8. [Введение в модульное тестирование.](https://github.com/iu5team/iu5web-fall-2020/blob/master/pres/rip_test.pdf)
 
 
-1. Лекция 9. История развития средств веб-разработки 
-- [Трехзвенная архитектура](https://github.com/iu5team/iu5web-fall-2020/blob/master/pres/lect_web/web_intro.pdf)
-- [Шаблон проектирования Model-View-Controller](https://ru.wikipedia.org/wiki/Model-View-Controller)
-- [Разработка на стороне веб-браузера](https://github.com/iu5team/iu5web-fall-2020/blob/master/pres/lect_web/javascript_lib_2000.pdf)
+1. Лекция 9. История развития средств веб-разработки: 
+    * [Трехзвенная архитектура.](https://github.com/iu5team/iu5web-fall-2020/blob/master/pres/lect_web/web_intro.pdf)
+    * [Шаблон проектирования Model-View-Controller.](https://ru.wikipedia.org/wiki/Model-View-Controller)
 
 
 
@@ -58,7 +57,7 @@
 
 
 ## Рубежные контроли:
-1. РК-1 выдан.
+1. РК-1 проведен.
 
 
 ## Материалы к экзамену:
