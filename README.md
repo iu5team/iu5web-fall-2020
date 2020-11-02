@@ -43,7 +43,7 @@
 1. Лекция 9. История развития средств веб-разработки: 
     * [Трехзвенная архитектура.](https://github.com/iu5team/iu5web-fall-2020/blob/master/pres/lect_web/web_intro.pdf)
     * [Шаблон проектирования Model-View-Controller.](https://ru.wikipedia.org/wiki/Model-View-Controller)
-
+    * [Шаблон проектирования Model-View-Presenter.](https://ru.wikipedia.org/wiki/Model-View-Presenter)
 
 
 ## Лабораторные работы:
