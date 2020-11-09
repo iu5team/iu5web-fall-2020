@@ -46,7 +46,10 @@
     * [Шаблон проектирования Model-View-Presenter.](https://ru.wikipedia.org/wiki/Model-View-Presenter)
 
 
-1. Лекция 10. [Стандарты интернета. Протокол HTTP.](https://github.com/iu5team/iu5web-fall-2020/blob/master/pres/rip_http.pdf)
+1. Лекция 10. [Стандарты интернета. URI, URL, URN.](https://github.com/iu5team/iu5web-fall-2020/blob/master/pres/rip_http.pdf)
+
+
+1. Лекция 11. [Протокол HTTP.](https://github.com/iu5team/iu5web-fall-2020/blob/master/pres/rip_http.pdf)
 
 
 ## Лабораторные работы:
