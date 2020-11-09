@@ -46,6 +46,9 @@
     * [Шаблон проектирования Model-View-Presenter.](https://ru.wikipedia.org/wiki/Model-View-Presenter)
 
 
+1. Лекция 10. [Стандарты интернета. Протокол HTTP.](https://github.com/iu5team/iu5web-fall-2020/blob/master/pres/rip_http.pdf)
+
+
 ## Лабораторные работы:
 1. [Основы языка Python.](https://github.com/iu5team/iu5web-fall-2020/wiki/lab_python_intro)
 1. [Объектно-ориентированные возможности языка Python.](https://github.com/iu5team/iu5web-fall-2020/wiki/lab_python_oop) ( [Пример](/code/lab2_code) )
