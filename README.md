@@ -51,12 +51,25 @@
 
 1. Лекция 11. [Протокол HTTP.](https://github.com/iu5team/iu5web-fall-2020/blob/master/pres/rip_http.pdf)
 
+1. Лекция 12. Языки разметки. Язык HTML: 
+    * [Введение в HTML.](https://ugapanyuk.github.io/data/html.zip)
+    * [Введение в XML (учебное пособие).](https://ugapanyuk.github.io/data/XML_2014.zip)
+    * Дополнительные ссылки:
+    * [Издательская система LaTeX.](https://ru.wikipedia.org/wiki/LaTeX)
+    * [Язык разметки HTML5.](https://ru.wikipedia.org/wiki/HTML5)
+    * [Язык разметки XHTML.](https://ru.wikipedia.org/wiki/XHTML)
+    * [htmlbook.ru (справочник по HTML и CSS).](http://htmlbook.ru/)
+    * [Формат JSON.](https://ru.wikipedia.org/wiki/JSON)
+
+
 
 ## Лабораторные работы:
 1. [Основы языка Python.](https://github.com/iu5team/iu5web-fall-2020/wiki/lab_python_intro)
 1. [Объектно-ориентированные возможности языка Python.](https://github.com/iu5team/iu5web-fall-2020/wiki/lab_python_oop) ( [Пример](/code/lab2_code) )
 1. [Функциональные возможности языка Python.](https://github.com/iu5team/iu5web-fall-2020/wiki/lab_python_fp)
 1. [Шаблоны проектирования и модульное тестирование в Python.](https://github.com/iu5team/iu5web-fall-2020/wiki/lab_python_test)
+1. [Создание HTML-сайта.](https://github.com/iu5team/iu5web-fall-2020/wiki/lab_html_intro)
+
 
 
 ## Домашнее задание:
