@@ -51,16 +51,33 @@
 
 1. Лекция 11. [Протокол HTTP.](https://github.com/iu5team/iu5web-fall-2020/blob/master/pres/rip_http.pdf)
 
-1. Лекция 12. Языки разметки. Язык HTML: 
-    * [Введение в HTML.](https://ugapanyuk.github.io/data/html.zip)
+1. Лекции 12, 13. Языки разметки. Язык HTML: 
     * [Введение в XML (учебное пособие).](https://ugapanyuk.github.io/data/XML_2014.zip)
+    * [Введение в HTML.](https://ugapanyuk.github.io/data/html.zip)
+    * [Введение в HTML-формы.](https://ugapanyuk.github.io/data/html_forms.zip)
     * Дополнительные ссылки:
     * [Издательская система LaTeX.](https://ru.wikipedia.org/wiki/LaTeX)
     * [Язык разметки HTML5.](https://ru.wikipedia.org/wiki/HTML5)
+    * [Спецификация HTML 5.2, W3C Recommendation, 14 December 2017.](https://www.w3.org/TR/html52/)
+        * [Раздел по HTML-формам.](https://www.w3.org/TR/html52/sec-forms.html)
     * [Язык разметки XHTML.](https://ru.wikipedia.org/wiki/XHTML)
     * [htmlbook.ru (справочник по HTML и CSS).](http://htmlbook.ru/)
     * [Формат JSON.](https://ru.wikipedia.org/wiki/JSON)
 
+
+1. Лекция 14. Технология каскадных таблиц стилей CSS:
+    * [Введение в CSS.](https://ugapanyuk.github.io/data/lab3_css_styles.zip)
+    * [Фреймворк Bootstrap.](https://getbootstrap.com/)
+    * Дополнительные ссылки:
+    * [Технология CSS.](https://ru.wikipedia.org/wiki/CSS)
+    * Расширения CSS:
+        * [Sass.](https://ru.wikipedia.org/wiki/Sass)
+        * [LESS.](https://ru.wikipedia.org/wiki/LESS_(%D1%8F%D0%B7%D1%8B%D0%BA_%D1%81%D1%82%D0%B8%D0%BB%D0%B5%D0%B9))
+        * [Stylus.](https://ru.wikipedia.org/wiki/Stylus)
+    * [CSS-фреймворк.](https://ru.wikipedia.org/wiki/CSS-%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA)
+    * [Обзор CSS-фреймворков.](https://techrocks.ru/2019/12/19/6-best-css-frameworks/)
+    * [Методология БЭМ](https://ru.wikipedia.org/wiki/%D0%91%D0%AD%D0%9C)
+        * [Официальный сайт](https://ru.bem.info/)
 
 
 ## Лабораторные работы:
@@ -69,7 +86,8 @@
 1. [Функциональные возможности языка Python.](https://github.com/iu5team/iu5web-fall-2020/wiki/lab_python_fp)
 1. [Шаблоны проектирования и модульное тестирование в Python.](https://github.com/iu5team/iu5web-fall-2020/wiki/lab_python_test)
 1. [Создание HTML-сайта.](https://github.com/iu5team/iu5web-fall-2020/wiki/lab_html_intro)
-
+1. [Создание HTML-формы.](https://github.com/iu5team/iu5web-fall-2020/wiki/lab_html_forms)
+1. [Создание HTML-сайта с использованием Boostrap.](https://github.com/iu5team/iu5web-fall-2020/wiki/lab_html_bootstrap)
 
 
 ## Домашнее задание:
