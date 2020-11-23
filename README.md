@@ -76,8 +76,8 @@
         * [Stylus.](https://ru.wikipedia.org/wiki/Stylus)
     * [CSS-фреймворк.](https://ru.wikipedia.org/wiki/CSS-%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA)
     * [Обзор CSS-фреймворков.](https://techrocks.ru/2019/12/19/6-best-css-frameworks/)
-    * [Методология БЭМ](https://ru.wikipedia.org/wiki/%D0%91%D0%AD%D0%9C)
-        * [Официальный сайт](https://ru.bem.info/)
+    * [Методология БЭМ.](https://ru.wikipedia.org/wiki/%D0%91%D0%AD%D0%9C)
+        * [Официальный сайт.](https://ru.bem.info/)
 
 
 ## Лабораторные работы:
@@ -87,7 +87,7 @@
 1. [Шаблоны проектирования и модульное тестирование в Python.](https://github.com/iu5team/iu5web-fall-2020/wiki/lab_python_test)
 1. [Создание HTML-сайта.](https://github.com/iu5team/iu5web-fall-2020/wiki/lab_html_intro)
 1. [Создание HTML-формы.](https://github.com/iu5team/iu5web-fall-2020/wiki/lab_html_forms)
-1. [Создание HTML-сайта с использованием Boostrap.](https://github.com/iu5team/iu5web-fall-2020/wiki/lab_html_bootstrap)
+1. [Создание HTML-сайта с использованием Bootstrap.](https://github.com/iu5team/iu5web-fall-2020/wiki/lab_html_bootstrap)
 
 
 ## Домашнее задание:
