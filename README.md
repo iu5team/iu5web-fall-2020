@@ -80,7 +80,7 @@
         * [Официальный сайт.](https://ru.bem.info/)
 
 
-1. Лекция 15. [Введение в разработку веб-приложений на Python с использованием веб-фреймворков.](https://github.com/iu5team/iu5web-fall-2020/blob/master/pres/rip_django.pdf)
+1. Лекции 15-17. [Введение в разработку веб-приложений на Python с использованием веб-фреймворков.](https://github.com/iu5team/iu5web-fall-2020/blob/master/pres/rip_django.pdf)
 
 
 ## Лабораторные работы:
@@ -91,6 +91,7 @@
 1. [Создание HTML-сайта.](https://github.com/iu5team/iu5web-fall-2020/wiki/lab_html_intro)
 1. [Создание HTML-формы.](https://github.com/iu5team/iu5web-fall-2020/wiki/lab_html_forms)
 1. [Создание HTML-сайта с использованием Bootstrap.](https://github.com/iu5team/iu5web-fall-2020/wiki/lab_html_bootstrap)
+1. [Создание прототипа веб-приложения с использованием фреймворка Django.](https://github.com/iu5team/iu5web-fall-2020/wiki/lab_django)
 
 
 ## Домашнее задание:
@@ -98,6 +99,7 @@
 
 ## Рубежные контроли:
 1. РК-1 проведен.
+1. РК-2 проведен.
 
 
 ## Материалы к экзамену:
