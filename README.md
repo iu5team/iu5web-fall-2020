@@ -80,6 +80,9 @@
         * [Официальный сайт.](https://ru.bem.info/)
 
 
+1. Лекция 15. [Введение в разработку веб-приложений на Python с использованием веб-фреймворков.](https://github.com/iu5team/iu5web-fall-2020/blob/master/pres/rip_django.pdf)
+
+
 ## Лабораторные работы:
 1. [Основы языка Python.](https://github.com/iu5team/iu5web-fall-2020/wiki/lab_python_intro)
 1. [Объектно-ориентированные возможности языка Python.](https://github.com/iu5team/iu5web-fall-2020/wiki/lab_python_oop) ( [Пример](/code/lab2_code) )
