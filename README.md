@@ -104,4 +104,6 @@
 
 
 ## Материалы к экзамену:
+[Вопросы к экзамену.](https://github.com/iu5team/iu5web-fall-2020/blob/master/exam/RIP_exam_questions_2020.pdf)
+
 
